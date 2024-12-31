@@ -1,0 +1,6 @@
+a simple overview :
+all programs takes 2 8bit binary numbers as inputs and simulates the
+behaviour of AND, OR , NOT , XOR, NAND, NOR gates by outputing a truth table for each gate.
+
+
+1. AND gates
